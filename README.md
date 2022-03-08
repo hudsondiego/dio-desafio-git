@@ -1,2 +1,5 @@
 # dio-desafio-git
-Primeiro repositório no git - desafio git
+Repositório - desafio DIO
+
+## Links Úteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/getting-started/) 
